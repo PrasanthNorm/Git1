@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
         <div>
          <h1>Reserved</h1>
-            <h2>Free</h2>
+            <h2>Soup</h2>
         </div>
     </form>
 </body>
