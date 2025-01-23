@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
         <div>
          
-            <h1>Newly</h1>
+            <h1>News</h1>
             <h1>New</h1>
             
         </div>
