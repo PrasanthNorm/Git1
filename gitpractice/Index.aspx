@@ -11,6 +11,8 @@
         <div>
          
             <h1>Newly</h1>
+            <h1>New</h1>
+            
         </div>
     </form>
 </body>
